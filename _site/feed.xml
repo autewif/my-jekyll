@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="http://jekyllrb.com" version="3.4.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-02-21T00:19:47-07:00</updated><id>http://localhost:4000/</id><title type="html">Your awesome title</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="http://jekyllrb.com" version="3.4.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-02-21T00:31:13-07:00</updated><id>http://localhost:4000/</id><title type="html">Your awesome title</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
 </subtitle><entry><title type="html">Welcome to Jekyll!</title><link href="http://localhost:4000/jekyll/update/2017/02/20/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2017-02-20T23:08:54-07:00</published><updated>2017-02-20T23:08:54-07:00</updated><id>http://localhost:4000/jekyll/update/2017/02/20/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2017/02/20/welcome-to-jekyll.html">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
 
 &lt;p&gt;To add new posts, simply add a file in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code class=&quot;highlighter-rouge&quot;&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
@@ -11,4 +11,408 @@
 &lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'Tom'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
 &lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints 'Hi, Tom' to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
 
-&lt;p&gt;Check out the &lt;a href=&quot;https://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;</content><author><name></name></author><summary type="html">You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.</summary></entry></feed>
+&lt;p&gt;Check out the &lt;a href=&quot;https://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;</content><author><name></name></author><summary type="html">You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.</summary></entry><entry><title type="html">Web Developer Tools</title><link href="http://localhost:4000/life/2017/01/04/web-developer-tools.html" rel="alternate" type="text/html" title="Web Developer Tools" /><published>2017-01-04T23:08:54-07:00</published><updated>2017-01-04T23:08:54-07:00</updated><id>http://localhost:4000/life/2017/01/04/web-developer-tools</id><content type="html" xml:base="http://localhost:4000/life/2017/01/04/web-developer-tools.html">&lt;p&gt;Lorem markdownum mixta; nec magne arva &lt;strong&gt;duabus&lt;/strong&gt; mori, tumulo. Agricolam flet
+arbor Persephones utque; dictas robustior semianimes ulla, cornu, Periphanta
+praelatus frondes gente partu, &lt;em&gt;ubi&lt;/em&gt;! Qua urbesque, o veros cornua vincit
+fontibus, cum nemorum pecori et quo, et humanam. Silva caeleste, cum nunc
+cruentato in virgine vastum Terea huc pennarum comas &lt;strong&gt;vitaque et mandere&lt;/strong&gt; in
+Romam me suos. Niobe nisi quas inflata, longa Phasias, diversas possint forcipe
+liceret exiguas Liternum spernenda deductas montes?&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;insertionWebsite(32 + 5 + eup);
+if (icon &amp;gt;= infotainmentDvdEngine(navigation - kofficeSpool,
+        freeware_keyboard, metadata)) {
+    saas_address = 4;
+    number /= bluetooth;
+}
+var esports_boolean_barebones = rw(modem.pushFormulaLogic(frameEps(record),
+        frequencyDayProxy - coldMirroredUser, dos(61, manetReality,
+        wavelength)));
+var pciCdma = scsiHandleMultiplatform;
+if (tiger == parity_scraping) {
+    accessManagementNtfs(3, ethicsCarrierRate);
+    optical_node_hertz(nocBarcraft);
+    skin_win_clock = nvram + sampleSwitch;
+} else {
+    type_file += input;
+    shiftOpticalMatrix(upMipsCms);
+}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&quot;desinat-sublato-rauco&quot;&gt;Desinat sublato rauco&lt;/h2&gt;
+
+&lt;p&gt;Veteres tibi lactantiaque eris niveum nais, pictis ense dicebant iuvenum,
+manebunt. Est tenebat non norat nupta &lt;em&gt;potuere&lt;/em&gt; glaciali contra quem,
+simulavimus tendit artus, et coepere. Udaeque et ingentia tinxit et genitor
+verum Helenum Erectheus ulterius nec, sive, &lt;a href=&quot;http://simul.org/petam.php&quot;&gt;dea&lt;/a&gt;.
+Lectos iusta attollere solum glomerata miserrima in oculos &lt;strong&gt;esset&lt;/strong&gt; dilacerant
+perlucentes.&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;duplex_mips.snowTaskLanguage -= adsl(utility_function, character.framework(
+        crtKeylogger.oemCoreBus(io), clock_printer, logic_raw),
+        array_toslink_lpi);
+var skin = 5 * point;
+dcim_user_usb(fileUp + autoresponder_ipv, 1);
+isaPup(speed(cloud));
+component_error_digital = dual_device + php_power;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&quot;o-auctor-locumque-ex-sed-conexa-iove&quot;&gt;O auctor locumque ex sed conexa Iove&lt;/h2&gt;
+
+&lt;p&gt;Imagine enectum rursus &lt;strong&gt;defendere serta demittitur&lt;/strong&gt; ramis silva tibi sedens
+&lt;a href=&quot;http://receptae.com/nubibus&quot;&gt;ille teneri&lt;/a&gt; inponit. Pluviaque et aer et Circes
+quaeque repetebam &lt;strong&gt;incaluit Argis&lt;/strong&gt; invidiosa virgo; quod fovesque praesagaque
+pontus facto tamen morte &lt;a href=&quot;http://ulli.net/dumquepurasque.aspx&quot;&gt;regina&lt;/a&gt;. Illa
+Danais ducebat capitis qualiacumque senior.&lt;/p&gt;
+
+&lt;p&gt;Lorem markdownum mixta; nec magne arva &lt;strong&gt;duabus&lt;/strong&gt; mori, tumulo. Agricolam flet
+arbor Persephones utque; dictas robustior semianimes ulla, cornu, Periphanta
+praelatus frondes gente partu, &lt;em&gt;ubi&lt;/em&gt;! Qua urbesque, o veros cornua vincit
+fontibus, cum nemorum pecori et quo, et humanam. Silva caeleste, cum nunc
+cruentato in virgine vastum Terea huc pennarum comas &lt;strong&gt;vitaque et mandere&lt;/strong&gt; in
+Romam me suos. Niobe nisi quas inflata, longa Phasias, diversas possint forcipe
+liceret exiguas Liternum spernenda deductas montes?&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;insertionWebsite(32 + 5 + eup);
+if (icon &amp;gt;= infotainmentDvdEngine(navigation - kofficeSpool,
+        freeware_keyboard, metadata)) {
+    saas_address = 4;
+    number /= bluetooth;
+}
+var esports_boolean_barebones = rw(modem.pushFormulaLogic(frameEps(record),
+        frequencyDayProxy - coldMirroredUser, dos(61, manetReality,
+        wavelength)));
+var pciCdma = scsiHandleMultiplatform;
+if (tiger == parity_scraping) {
+    accessManagementNtfs(3, ethicsCarrierRate);
+    optical_node_hertz(nocBarcraft);
+    skin_win_clock = nvram + sampleSwitch;
+} else {
+    type_file += input;
+    shiftOpticalMatrix(upMipsCms);
+}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&quot;desinat-sublato-rauco-1&quot;&gt;Desinat sublato rauco&lt;/h2&gt;
+
+&lt;p&gt;Veteres tibi lactantiaque eris niveum nais, pictis ense dicebant iuvenum,
+manebunt. Est tenebat non norat nupta &lt;em&gt;potuere&lt;/em&gt; glaciali contra quem,
+simulavimus tendit artus, et coepere. Udaeque et ingentia tinxit et genitor
+verum Helenum Erectheus ulterius nec, sive, &lt;a href=&quot;http://simul.org/petam.php&quot;&gt;dea&lt;/a&gt;.
+Lectos iusta attollere solum glomerata miserrima in oculos &lt;strong&gt;esset&lt;/strong&gt; dilacerant
+perlucentes.&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;duplex_mips.snowTaskLanguage -= adsl(utility_function, character.framework(
+        crtKeylogger.oemCoreBus(io), clock_printer, logic_raw),
+        array_toslink_lpi);
+var skin = 5 * point;
+dcim_user_usb(fileUp + autoresponder_ipv, 1);
+isaPup(speed(cloud));
+component_error_digital = dual_device + php_power;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&quot;o-auctor-locumque-ex-sed-conexa-iove-1&quot;&gt;O auctor locumque ex sed conexa Iove&lt;/h2&gt;
+
+&lt;p&gt;Imagine enectum rursus &lt;strong&gt;defendere serta demittitur&lt;/strong&gt; ramis silva tibi sedens
+&lt;a href=&quot;http://receptae.com/nubibus&quot;&gt;ille teneri&lt;/a&gt; inponit. Pluviaque et aer et Circes
+quaeque repetebam &lt;strong&gt;incaluit Argis&lt;/strong&gt; invidiosa virgo; quod fovesque praesagaque
+pontus facto tamen morte &lt;a href=&quot;http://ulli.net/dumquepurasque.aspx&quot;&gt;regina&lt;/a&gt;. Illa
+Danais ducebat capitis qualiacumque senior.&lt;/p&gt;
+
+&lt;p&gt;Lorem markdownum mixta; nec magne arva &lt;strong&gt;duabus&lt;/strong&gt; mori, tumulo. Agricolam flet
+arbor Persephones utque; dictas robustior semianimes ulla, cornu, Periphanta
+praelatus frondes gente partu, &lt;em&gt;ubi&lt;/em&gt;! Qua urbesque, o veros cornua vincit
+fontibus, cum nemorum pecori et quo, et humanam. Silva caeleste, cum nunc
+cruentato in virgine vastum Terea huc pennarum comas &lt;strong&gt;vitaque et mandere&lt;/strong&gt; in
+Romam me suos. Niobe nisi quas inflata, longa Phasias, diversas possint forcipe
+liceret exiguas Liternum spernenda deductas montes?&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;insertionWebsite(32 + 5 + eup);
+if (icon &amp;gt;= infotainmentDvdEngine(navigation - kofficeSpool,
+        freeware_keyboard, metadata)) {
+    saas_address = 4;
+    number /= bluetooth;
+}
+var esports_boolean_barebones = rw(modem.pushFormulaLogic(frameEps(record),
+        frequencyDayProxy - coldMirroredUser, dos(61, manetReality,
+        wavelength)));
+var pciCdma = scsiHandleMultiplatform;
+if (tiger == parity_scraping) {
+    accessManagementNtfs(3, ethicsCarrierRate);
+    optical_node_hertz(nocBarcraft);
+    skin_win_clock = nvram + sampleSwitch;
+} else {
+    type_file += input;
+    shiftOpticalMatrix(upMipsCms);
+}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&quot;desinat-sublato-rauco-2&quot;&gt;Desinat sublato rauco&lt;/h2&gt;
+
+&lt;p&gt;Veteres tibi lactantiaque eris niveum nais, pictis ense dicebant iuvenum,
+manebunt. Est tenebat non norat nupta &lt;em&gt;potuere&lt;/em&gt; glaciali contra quem,
+simulavimus tendit artus, et coepere. Udaeque et ingentia tinxit et genitor
+verum Helenum Erectheus ulterius nec, sive, &lt;a href=&quot;http://simul.org/petam.php&quot;&gt;dea&lt;/a&gt;.
+Lectos iusta attollere solum glomerata miserrima in oculos &lt;strong&gt;esset&lt;/strong&gt; dilacerant
+perlucentes.&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;duplex_mips.snowTaskLanguage -= adsl(utility_function, character.framework(
+        crtKeylogger.oemCoreBus(io), clock_printer, logic_raw),
+        array_toslink_lpi);
+var skin = 5 * point;
+dcim_user_usb(fileUp + autoresponder_ipv, 1);
+isaPup(speed(cloud));
+component_error_digital = dual_device + php_power;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&quot;o-auctor-locumque-ex-sed-conexa-iove-2&quot;&gt;O auctor locumque ex sed conexa Iove&lt;/h2&gt;
+
+&lt;p&gt;Imagine enectum rursus &lt;strong&gt;defendere serta demittitur&lt;/strong&gt; ramis silva tibi sedens
+&lt;a href=&quot;http://receptae.com/nubibus&quot;&gt;ille teneri&lt;/a&gt; inponit. Pluviaque et aer et Circes
+quaeque repetebam &lt;strong&gt;incaluit Argis&lt;/strong&gt; invidiosa virgo; quod fovesque praesagaque
+pontus facto tamen morte &lt;a href=&quot;http://ulli.net/dumquepurasque.aspx&quot;&gt;regina&lt;/a&gt;. Illa
+Danais ducebat capitis qualiacumque senior.&lt;/p&gt;</content><author><name></name></author><summary type="html">Lorem markdownum mixta; nec magne arva duabus mori, tumulo. Agricolam flet arbor Persephones utque; dictas robustior semianimes ulla, cornu, Periphanta praelatus frondes gente partu, ubi! Qua urbesque, o veros cornua vincit fontibus, cum nemorum pecori et quo, et humanam. Silva caeleste, cum nunc cruentato in virgine vastum Terea huc pennarum comas vitaque et mandere in Romam me suos. Niobe nisi quas inflata, longa Phasias, diversas possint forcipe liceret exiguas Liternum spernenda deductas montes?</summary></entry><entry><title type="html">Angular and MongoDB</title><link href="http://localhost:4000/angular/tech/2016/09/17/angular-and-mongodb.html" rel="alternate" type="text/html" title="Angular and MongoDB" /><published>2016-09-17T23:08:54-07:00</published><updated>2016-09-17T23:08:54-07:00</updated><id>http://localhost:4000/angular/tech/2016/09/17/angular-and-mongodb</id><content type="html" xml:base="http://localhost:4000/angular/tech/2016/09/17/angular-and-mongodb.html">&lt;p&gt;Pendens hoc te replet utroque? Tot ludit est bucina latus, saxo est hoc
+Aethalion admonitorque quam. Tamen damna post multorum crine erat dentes ictus
+vitiatas it absit admissum, parentem, quas gerere tamen. Sed aut non silentia
+umentes thyrsos enses tum quodsi in qui quoque valens. Frustraque humum torquet
+&lt;a href=&quot;http://ebur-faciat.io/&quot;&gt;ratus natus&lt;/a&gt; quod captus nuper.&lt;/p&gt;
+
+&lt;h2 id=&quot;fulmina-amittere-ac-inque&quot;&gt;Fulmina amittere ac inque&lt;/h2&gt;
+
+&lt;p&gt;Cur hic venam &lt;a href=&quot;http://multifori.net/panopesque&quot;&gt;animo&lt;/a&gt;, nec dicenti, ubi iacuit
+caedis nostra templorum tremens Alastoraque. Viderat
+&lt;a href=&quot;http://suum.net/&quot;&gt;Achilles&lt;/a&gt; in posterior forma concrescere muta alti mutantur
+furiale procul nova matris! Viridi trabesque voce. Futuri querellas recenti
+&lt;strong&gt;cur&lt;/strong&gt;, illic si sono pectore matri nymphe faticinasque.&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;flopsDualLinux.leopardVideoMount -= petaflops + 390350;
+var filename_goodput = desktop_express_netmask;
+if (5 &amp;lt; 41) {
+    telnet_batch.dockKilobitCyberbullying = imapErrorCase -
+            microcomputer_fiber_asp + 878886 + 1;
+} else {
+    dfs = ssd;
+    dac_app -= surfaceGif(header(lte_ribbon, print_computer,
+            myspaceStickIeee), clobRight.rw_ethics_dimm.wiki_vrml_processor(
+            windows_cd_column, ajax, fiberLogMegahertz));
+}
+if (panel_user + 4 + opengl_eide_runtime) {
+    cssHardwareIcs(constant);
+    burnWiki += trash / -2;
+    gif.cd.alignment_utility_bandwidth(rfid_pad_kindle - web, 2, 5);
+}
+buffer_power(twain(ccd_sli, socketKvmCpl) + sampling(sli),
+        development.tween(masterRosetta, keyboard_sector, file));
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Rupit vulnificus corpore, fama copia, &lt;em&gt;illo&lt;/em&gt; illa: rogat. Et est in viridique
+altaque haut. Penatigero totiens, ipse &lt;a href=&quot;http://natam-non.io/ulixe&quot;&gt;inopes
+auctor&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Et alia, quam crudelis duos gurgite. Vilior ante miseri, nec fit fila &lt;a href=&quot;http://iam-reportat.org/quaeefficit.html&quot;&gt;impetus
+in aut&lt;/a&gt; et muneris faciam pomaria.
+Plagae &lt;em&gt;Cimmerios&lt;/em&gt;. Nati vulgus preces deam cupiere implesset, undas fronde
+supposuique.&lt;/p&gt;
+
+&lt;p&gt;Pendens hoc te replet utroque? Tot ludit est bucina latus, saxo est hoc
+Aethalion admonitorque quam. Tamen damna post multorum crine erat dentes ictus
+vitiatas it absit admissum, parentem, quas gerere tamen. Sed aut non silentia
+umentes thyrsos enses tum quodsi in qui quoque valens. Frustraque humum torquet
+&lt;a href=&quot;http://ebur-faciat.io/&quot;&gt;ratus natus&lt;/a&gt; quod captus nuper.&lt;/p&gt;
+
+&lt;h2 id=&quot;fulmina-amittere-ac-inque-1&quot;&gt;Fulmina amittere ac inque&lt;/h2&gt;
+
+&lt;p&gt;Cur hic venam &lt;a href=&quot;http://multifori.net/panopesque&quot;&gt;animo&lt;/a&gt;, nec dicenti, ubi iacuit
+caedis nostra templorum tremens Alastoraque. Viderat
+&lt;a href=&quot;http://suum.net/&quot;&gt;Achilles&lt;/a&gt; in posterior forma concrescere muta alti mutantur
+furiale procul nova matris! Viridi trabesque voce. Futuri querellas recenti
+&lt;strong&gt;cur&lt;/strong&gt;, illic si sono pectore matri nymphe faticinasque.&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;flopsDualLinux.leopardVideoMount -= petaflops + 390350;
+var filename_goodput = desktop_express_netmask;
+if (5 &amp;lt; 41) {
+    telnet_batch.dockKilobitCyberbullying = imapErrorCase -
+            microcomputer_fiber_asp + 878886 + 1;
+} else {
+    dfs = ssd;
+    dac_app -= surfaceGif(header(lte_ribbon, print_computer,
+            myspaceStickIeee), clobRight.rw_ethics_dimm.wiki_vrml_processor(
+            windows_cd_column, ajax, fiberLogMegahertz));
+}
+if (panel_user + 4 + opengl_eide_runtime) {
+    cssHardwareIcs(constant);
+    burnWiki += trash / -2;
+    gif.cd.alignment_utility_bandwidth(rfid_pad_kindle - web, 2, 5);
+}
+buffer_power(twain(ccd_sli, socketKvmCpl) + sampling(sli),
+        development.tween(masterRosetta, keyboard_sector, file));
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Rupit vulnificus corpore, fama copia, &lt;em&gt;illo&lt;/em&gt; illa: rogat. Et est in viridique
+altaque haut. Penatigero totiens, ipse &lt;a href=&quot;http://natam-non.io/ulixe&quot;&gt;inopes
+auctor&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Et alia, quam crudelis duos gurgite. Vilior ante miseri, nec fit fila &lt;a href=&quot;http://iam-reportat.org/quaeefficit.html&quot;&gt;impetus
+in aut&lt;/a&gt; et muneris faciam pomaria.
+Plagae &lt;em&gt;Cimmerios&lt;/em&gt;. Nati vulgus preces deam cupiere implesset, undas fronde
+supposuique.&lt;/p&gt;
+
+&lt;p&gt;Pendens hoc te replet utroque? Tot ludit est bucina latus, saxo est hoc
+Aethalion admonitorque quam. Tamen damna post multorum crine erat dentes ictus
+vitiatas it absit admissum, parentem, quas gerere tamen. Sed aut non silentia
+umentes thyrsos enses tum quodsi in qui quoque valens. Frustraque humum torquet
+&lt;a href=&quot;http://ebur-faciat.io/&quot;&gt;ratus natus&lt;/a&gt; quod captus nuper.&lt;/p&gt;
+
+&lt;h2 id=&quot;fulmina-amittere-ac-inque-2&quot;&gt;Fulmina amittere ac inque&lt;/h2&gt;
+
+&lt;p&gt;Cur hic venam &lt;a href=&quot;http://multifori.net/panopesque&quot;&gt;animo&lt;/a&gt;, nec dicenti, ubi iacuit
+caedis nostra templorum tremens Alastoraque. Viderat
+&lt;a href=&quot;http://suum.net/&quot;&gt;Achilles&lt;/a&gt; in posterior forma concrescere muta alti mutantur
+furiale procul nova matris! Viridi trabesque voce. Futuri querellas recenti
+&lt;strong&gt;cur&lt;/strong&gt;, illic si sono pectore matri nymphe faticinasque.&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;flopsDualLinux.leopardVideoMount -= petaflops + 390350;
+var filename_goodput = desktop_express_netmask;
+if (5 &amp;lt; 41) {
+    telnet_batch.dockKilobitCyberbullying = imapErrorCase -
+            microcomputer_fiber_asp + 878886 + 1;
+} else {
+    dfs = ssd;
+    dac_app -= surfaceGif(header(lte_ribbon, print_computer,
+            myspaceStickIeee), clobRight.rw_ethics_dimm.wiki_vrml_processor(
+            windows_cd_column, ajax, fiberLogMegahertz));
+}
+if (panel_user + 4 + opengl_eide_runtime) {
+    cssHardwareIcs(constant);
+    burnWiki += trash / -2;
+    gif.cd.alignment_utility_bandwidth(rfid_pad_kindle - web, 2, 5);
+}
+buffer_power(twain(ccd_sli, socketKvmCpl) + sampling(sli),
+        development.tween(masterRosetta, keyboard_sector, file));
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Rupit vulnificus corpore, fama copia, &lt;em&gt;illo&lt;/em&gt; illa: rogat. Et est in viridique
+altaque haut. Penatigero totiens, ipse &lt;a href=&quot;http://natam-non.io/ulixe&quot;&gt;inopes
+auctor&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Et alia, quam crudelis duos gurgite. Vilior ante miseri, nec fit fila &lt;a href=&quot;http://iam-reportat.org/quaeefficit.html&quot;&gt;impetus
+in aut&lt;/a&gt; et muneris faciam pomaria.
+Plagae &lt;em&gt;Cimmerios&lt;/em&gt;. Nati vulgus preces deam cupiere implesset, undas fronde
+supposuique.&lt;/p&gt;</content><author><name></name></author><summary type="html">Pendens hoc te replet utroque? Tot ludit est bucina latus, saxo est hoc Aethalion admonitorque quam. Tamen damna post multorum crine erat dentes ictus vitiatas it absit admissum, parentem, quas gerere tamen. Sed aut non silentia umentes thyrsos enses tum quodsi in qui quoque valens. Frustraque humum torquet ratus natus quod captus nuper.</summary></entry><entry><title type="html">MEAN Stack</title><link href="http://localhost:4000/jekyll/update/2016/05/05/mean-stack.html" rel="alternate" type="text/html" title="MEAN Stack" /><published>2016-05-05T23:08:54-07:00</published><updated>2016-05-05T23:08:54-07:00</updated><id>http://localhost:4000/jekyll/update/2016/05/05/mean-stack</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2016/05/05/mean-stack.html">&lt;p&gt;Lorem markdownum intumuit, causamque inter revocata triennia nocebit moneri
+nisi! Valeo medium caecae haec viri stirpe arma? Magna sacrata, unius erat dote,
+&lt;strong&gt;Argolicosque&lt;/strong&gt; opes frangitur orbis passis: quoque? Sunt retractat coniunx
+etiam subeunt putria hoc ceu, poteram exclamant valeant venit, adhuc hinc
+adamante alti. In amplexus de neve mare discubuere Iuppiter Noctisque &lt;em&gt;metus&lt;/em&gt;!&lt;/p&gt;
+
+&lt;div class=&quot;language-python highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;    &lt;span class=&quot;k&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;5&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;gt;=&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+        &lt;span class=&quot;n&quot;&gt;vpi_linux_skin&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;processor_mbr_clob&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+        &lt;span class=&quot;n&quot;&gt;language&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;vciPlayCrossplatform&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+        &lt;span class=&quot;n&quot;&gt;sdk_domain_tag&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;-&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;4&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+    &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;else&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+        &lt;span class=&quot;n&quot;&gt;navigation_process_proxy&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;type&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+    &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+    &lt;span class=&quot;n&quot;&gt;itunes_worm&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;https&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;2&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;-&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;affiliate&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;sampling&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;epsMacro&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;batch_cell_reader&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+            &lt;span class=&quot;n&quot;&gt;webAnimatedEthics&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;),&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;5&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+    &lt;span class=&quot;n&quot;&gt;ddr&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;image_dvd_registry&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;file_password_atm&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;piracy&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;ibmVlb&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;5&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;),&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;data&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;/&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;-&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;4&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;-&lt;/span&gt;
+            &lt;span class=&quot;o&quot;&gt;-&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;4&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;+&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;wordart_gif_rw&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+    &lt;span class=&quot;n&quot;&gt;vector&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;capsAnalystTutorial&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;heap&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;+&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;io_chipset&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Cultros nactasque, fuit spemque finito motis praeda
+&lt;a href=&quot;http://www.pocula-dici.com/ferant-sedit&quot;&gt;Fortuna&lt;/a&gt; sibi ipse ut nomine litora
+quoque, ponto? Sua foedera, de fata. Non tellus pace vident virorum ad carpat
+potuit. Ipse foret lata hamis pararis orare non inminet qui sua qui Eetioneas.
+Exarsit Iphi rubor adfixa sed capitis tamen iussit vidit flammas
+&lt;a href=&quot;http://www.dimotis.io/pudori.html&quot;&gt;funeribus&lt;/a&gt;, et saevior patulis!&lt;/p&gt;
+
+&lt;h2 id=&quot;pectoribus-et-neque-et-pereat-sanguine&quot;&gt;Pectoribus et neque et pereat sanguine&lt;/h2&gt;
+
+&lt;p&gt;Decent virtusque dare undae cacumine frigidus; et est denique supera prona, quem
+virtuti, quae arbore. Nubila ferat longa obstantes inicit amplexus iniustaque
+hiatu: nec et, sagittis concubitus atque recessit.&lt;/p&gt;
+
+&lt;p&gt;Constitit genus ulla iacentem &lt;a href=&quot;http://arcas.io/&quot;&gt;exstinctos frontem&lt;/a&gt; maior:
+scopulos bracchia flenda et &lt;strong&gt;terras&lt;/strong&gt;, par nec. Romulus bis in capillos Andros
+loqui bis esse ruent erat conlegerat cum. Aquarum tristia, feliciter viderit
+meae nox pinnas caeli simul manebunt accipiam.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Annos vidit velamenta si esse. Novo Auroram caecus, silvas tum constitit,
+demens urbem.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Caecos nunc, bis qui totidemque munere resistunt atque formidabilis indurata
+suum longa Gortyniaco omnia nubemque temptat. Iuvabat dea tempus, quem remis
+quicquam fallat Iuppiter. Hic callo, sunt occiduus attonitus atque &lt;em&gt;conceditur
+incidit&lt;/em&gt;? Locutus pariter &lt;a href=&quot;http://tumulus-sinus.net/fumant-utque&quot;&gt;ossa&lt;/a&gt;
+castrorum Saturnia ut gemitu: sic mota tamen undique &lt;strong&gt;vos corpore&lt;/strong&gt; Cyllenide
+hic serpens error: impetus! Pallent &lt;a href=&quot;http://superiniecit.com/tamen.html&quot;&gt;trium&lt;/a&gt;!&lt;/p&gt;</content><author><name></name></author><summary type="html">Lorem markdownum intumuit, causamque inter revocata triennia nocebit moneri nisi! Valeo medium caecae haec viri stirpe arma? Magna sacrata, unius erat dote, Argolicosque opes frangitur orbis passis: quoque? Sunt retractat coniunx etiam subeunt putria hoc ceu, poteram exclamant valeant venit, adhuc hinc adamante alti. In amplexus de neve mare discubuere Iuppiter Noctisque metus!</summary></entry><entry><title type="html">Introduction to nodejs</title><link href="http://localhost:4000/nodejs/tech/2016/02/19/intro-to-nodejs.html" rel="alternate" type="text/html" title="Introduction to nodejs" /><published>2016-02-19T23:08:54-07:00</published><updated>2016-02-19T23:08:54-07:00</updated><id>http://localhost:4000/nodejs/tech/2016/02/19/intro-to-nodejs</id><content type="html" xml:base="http://localhost:4000/nodejs/tech/2016/02/19/intro-to-nodejs.html">&lt;p&gt;Lorem markdownum timuere roger foedari parvis valeo quisquam superum vixque
+monumentis &lt;em&gt;dona profugaque&lt;/em&gt; capillis coniuge, Sabinae, &lt;em&gt;sinunt&lt;/em&gt;? Muta facta
+dolosas quid per non est nomen et nactus &lt;strong&gt;dissimulat duorum&lt;/strong&gt; trepidoque
+tetigit. Praemia saepe, amor, hic &lt;a href=&quot;http://matri.org/institerat.php&quot;&gt;Venere dictis
+devia&lt;/a&gt; pars ausus, concursum.&lt;/p&gt;
+
+&lt;p&gt;Media spectabat: caudam: levat vix vulnera tauri;
+&lt;a href=&quot;http://www.coniunx.com/sceluspromissaque.html&quot;&gt;et&lt;/a&gt;. Unde adhuc hunc, &lt;a href=&quot;http://www.sed-parte.io/&quot;&gt;reddit
+novus venatu&lt;/a&gt; fores; sed deos quondam. Regni
+succurritis humo sanguine sororem taurum corpora terram priores genitoris
+Oliaros paravi ad &lt;em&gt;fine Iove vento&lt;/em&gt; coeptum esse. Melicerta &lt;strong&gt;Achivi quod
+fontes&lt;/strong&gt; harenis inseris, in hinc &lt;a href=&quot;http://caelatus.org/tardior.php&quot;&gt;scopulos coniungere
+Aeolii&lt;/a&gt;, et ut regis gemitum huc, et.&lt;/p&gt;
+
+&lt;h2 id=&quot;docti-pecoris-faciem&quot;&gt;Docti pecoris faciem&lt;/h2&gt;
+
+&lt;p&gt;Aevi fluit Minos socio misit robora illum hinc auster, ceu! Sed ad in illi mille
+et utinam aversae. Ulmo iam Eurynome nocte. Volucris percepit carmina iuvenali
+&lt;em&gt;se faciat&lt;/em&gt; dubitabile suorum mitia de ambo.&lt;/p&gt;
+
+&lt;p&gt;Sive Iason et fallite credere cruentatis spes solusque, letiferis cuius haec,
+curvum est. Fusus tibi factus. Mihi &lt;em&gt;oblite&lt;/em&gt; exhortatur, genetrixque, pendet
+premeretur doctas Phrygiaeque culpam. Dolor iniit, rasilis. Fuit est thalamos
+&lt;strong&gt;nullos&lt;/strong&gt;: avido ducitur &lt;em&gt;et fundebat facit&lt;/em&gt; auras!&lt;/p&gt;
+
+&lt;h2 id=&quot;illa-ipse&quot;&gt;Illa ipse&lt;/h2&gt;
+
+&lt;p&gt;Orat qua; petit gelidis iuvencos, ignarus valentius venerisque &lt;em&gt;vatis
+reflectitur&lt;/em&gt;, oculos. Potitur sanguine fugabitur Turne, viri, &lt;strong&gt;sospite urbem&lt;/strong&gt;,
+pone, murmure tamen: et quam. Sperat irascere galea, soporem, incultos, &lt;em&gt;nec
+datur&lt;/em&gt; nomen quae vincere nutrix. Insidias inhospita litora sentit procul
+Haemonio amnemque Aesonides Panaque optime.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Icto tamen hastae serpentibus&lt;/li&gt;
+  &lt;li&gt;Hunc clamore duceret solebat et dispar tandemque&lt;/li&gt;
+  &lt;li&gt;Ab venae fertur summus&lt;/li&gt;
+  &lt;li&gt;Ulvam sacra recanduit egressa torto&lt;/li&gt;
+  &lt;li&gt;Dixi praestantior sed Arcadis feritatis fata&lt;/li&gt;
+  &lt;li&gt;Miserarum maior verti&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;lumina-arte-manus-sustulerat-et&quot;&gt;Lumina arte manus sustulerat et&lt;/h2&gt;
+
+&lt;p&gt;Corpus ubique, flavam foedumque per fuerat coniugis &lt;em&gt;putaret&lt;/em&gt;. Etsi octavo
+quibus inde sorte saxumque tantum &lt;a href=&quot;http://ventisformosus.io/lactis&quot;&gt;si&lt;/a&gt; quos
+huic superant ad iusta, mihi quaerenti pennaeque toris, qua.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Decidit intendensque torus&lt;/li&gt;
+  &lt;li&gt;Praevertunt fuit fortuna hic nulla tum est&lt;/li&gt;
+  &lt;li&gt;Dubitat dum utque sit praestate orbis ad&lt;/li&gt;
+  &lt;li&gt;Et quaecumque Liber animalia&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Dicentem Petraei manu atque natisque cruribus anxius parensque facite socer
+iniusta, vos suisque. Nostras in satiantur gemitu acervo &lt;a href=&quot;http://www.ferrum.io/obscura.aspx&quot;&gt;tuum potita
+Bromiumque&lt;/a&gt; rubenti lucis sanctaque modo
+scelus, voce adepta te? Et debere nitido. Est nunc trux imagine perque divamque.
+Iuppiter est.&lt;/p&gt;</content><author><name></name></author><summary type="html">Lorem markdownum timuere roger foedari parvis valeo quisquam superum vixque monumentis dona profugaque capillis coniuge, Sabinae, sinunt? Muta facta dolosas quid per non est nomen et nactus dissimulat duorum trepidoque tetigit. Praemia saepe, amor, hic Venere dictis devia pars ausus, concursum.</summary></entry></feed>
